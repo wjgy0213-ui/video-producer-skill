@@ -1,0 +1,19 @@
+{
+  "skillpay_api_key": "",
+  "skill_id": "",
+  "skill_name": "Video Producer",
+  "version": "1.0.0",
+  "pricing": {
+    "pipeline": 1.0,
+    "script": 0.5,
+    "shooting_guide": 0.5,
+    "teleprompter": 0.0,
+    "topics": 0.5,
+    "adapt": 0.5,
+    "analyze": 0.5,
+    "styles": 0.0,
+    "platforms": 0.0,
+    "version": 0.0
+  },
+  "note": "SkillPay integration. Set skillpay_api_key after listing on skillpay.me"
+}
